@@ -1,0 +1,25 @@
+.Container {
+    width: 60%;
+    margin: 20px auto;
+    background-color: #fff;
+    border: 1px solid #efefef;
+    text-align: center;
+}
+.Container h3 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 32px;
+
+}
+.Btn {
+    width: 80px;
+    margin: 10px;
+    border: 1px solid gray;
+    padding: 5px;
+    background-color: #fff;
+    color: #000;
+}
+.Text {
+    font-size: 25px;
+    margin-top: 20px;
+}
